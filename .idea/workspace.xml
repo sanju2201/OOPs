@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68958e89-fc5f-4b12-b411-110ac84082ef" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/AXIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/BankingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/HDFC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/ICICI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/SBI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/musicPlayerProject/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/musicPlayerProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/musicPlayerProject/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankAccount/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BankAccount/Processing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Features/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Features/Vehical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/Brakes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/Gears.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +38,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.musicPlayerProject.Main">
     <configuration name="Contest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Contest" />
       <module name="OOPs" />
@@ -66,8 +68,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="musicPlayerProject.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="musicPlayerProject.Main" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="musicPlayerProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.musicPlayerProject.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Contest" />
       </list>
@@ -103,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667415378856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1667582640877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667582640877</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
